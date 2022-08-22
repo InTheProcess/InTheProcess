@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InTheProcess
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 You can reach me by 23stratmict@gmail.com
 
